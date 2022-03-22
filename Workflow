@@ -1,0 +1,20 @@
+Start
+Plug power source in socket
+Verify if water tap open
+Open main door
+Put laundry in cuve
+Close main door
+Verify if status main door: closed // optional
+Open second door
+Put powder and bal
+Close second door
+Verify if status second door: closed // optional
+Press power on button
+Set washing programm
+Press start button
+Wait until status programm: finished
+Open main door
+Take laundry out
+Press stop button
+Close water tap
+End
