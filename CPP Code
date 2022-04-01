@@ -9,6 +9,7 @@ int main()
     if user input = 1
     then proceed to next step
     if user input = 2
-    exit
+    then exit
     if user input !=1 and 2 then get error message
+    ...
  }
