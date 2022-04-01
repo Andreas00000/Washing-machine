@@ -1,0 +1,14 @@
+// Example program
+#include <iostream>
+#include <string>
+
+int main()
+{
+  std::cout << "Welcome to the WASHING MACHINE GUIDE\n";
+  std::cout << "Please type '1' to START or type '2' to EXIT:"; // the user should input the number 1 or 2, else get error message
+    if user input = 1
+    then proceed to next step
+    if user input = 2
+    exit
+    if user input !=1 and 2 then get error message
+ }
